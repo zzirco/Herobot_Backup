@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="safety_controller_to_ackermann_drive" name="safety_controller_to_ackermann_drive" type="safety_controller_to_ackermann_drive.py"/>
+</launch>

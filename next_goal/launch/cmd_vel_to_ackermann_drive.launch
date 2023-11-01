@@ -1,4 +1,4 @@
 <launch>
   <!-- cmd_vel_to_ackermann_drive -->
-  <node pkg="turtlebot3_navigation" name="cmd_vel_to_ackermann_drive" type="cmd_vel_to_ackermann_drive.py"/>
+  <node pkg="next_goal" name="safety_controller_to_ackermann_drive" type="safety_controller_to_ackermann_drive.py"/>
 </launch>
