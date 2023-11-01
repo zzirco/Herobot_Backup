@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- AMCL -->
+  <include file="$(find amcl)/examples/amcl_diff2.launch"/>
+
+  <!-- rviz -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find amcl)/rviz/amcl.rviz"/>
+
+</launch>
