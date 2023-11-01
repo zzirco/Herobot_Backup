@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- emergency -->
+  <node pkg="emergency" type="emergency" name="emergency" output="screen"/>
+
+</launch>

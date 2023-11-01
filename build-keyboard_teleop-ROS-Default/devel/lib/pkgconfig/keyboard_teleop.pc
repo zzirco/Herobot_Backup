@@ -1,0 +1,8 @@
+prefix=/home/wecar/catkin_ws/src/build-keyboard_teleop-ROS-Default/devel
+
+Name: keyboard_teleop
+Description: Description of keyboard_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lkeyboard_teleop
+Requires: roscpp std_msgs

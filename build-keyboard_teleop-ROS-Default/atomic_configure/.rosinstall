@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wecar/catkin_ws/src/build-keyboard_teleop-ROS-Default/devel/setup.sh

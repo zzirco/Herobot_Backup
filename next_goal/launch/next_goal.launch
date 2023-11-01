@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- point -->
+  <node pkg="next_goal" type="point" name="next_goal" output="screen"/>
+
+</launch>

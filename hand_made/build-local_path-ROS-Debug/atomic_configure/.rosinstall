@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wecar/catkin_ws/src/hand_made/build-local_path-ROS-Debug/devel/setup.sh

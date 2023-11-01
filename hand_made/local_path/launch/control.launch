@@ -1,0 +1,8 @@
+<launch>
+	<node pkg="local_path" type="local_path" name="control"  output="screen" />
+		<param name="max_lfd" type="double" value="10.0" />
+		<param name="min_lfd" type="double" value="1.0" />
+		<param name="num" type="int" value="10" />
+		<param name="get" type="double" value="1.5" />
+		<param name="getoff" type="double" value="1.5" />
+</launch>
